@@ -4,7 +4,7 @@ function formatDate(date) {
 }
 
 function Comment(props) {
-    console.log(props);
+    // console.log(props);
     return (
         <div className="Comment">
             <div className="UserInfo">
